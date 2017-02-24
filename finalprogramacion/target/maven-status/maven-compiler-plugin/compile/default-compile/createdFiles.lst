@@ -1,0 +1,5 @@
+Controladora\ConexionAPI.class
+Datos\DatosUsuario.class
+Datos\BBDD.class
+Modelo\Mensaje.class
+Modelo\Usuario.class
